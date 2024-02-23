@@ -8,18 +8,32 @@
 
 /* Begin PBXBuildFile section */
 		BFE3B8692B883F2400E1FEE6 /* GesturesExplorationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE3B8682B883F2400E1FEE6 /* GesturesExplorationApp.swift */; };
-		BFE3B86B2B883F2400E1FEE6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE3B86A2B883F2400E1FEE6 /* ContentView.swift */; };
+		BFE3B86B2B883F2400E1FEE6 /* GesturesDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE3B86A2B883F2400E1FEE6 /* GesturesDemo.swift */; };
 		BFE3B86D2B883F2500E1FEE6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFE3B86C2B883F2500E1FEE6 /* Assets.xcassets */; };
 		BFE3B8712B883F2500E1FEE6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFE3B8702B883F2500E1FEE6 /* Preview Assets.xcassets */; };
+		BFE3B87D2B88410C00E1FEE6 /* NiceTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE3B87C2B88410C00E1FEE6 /* NiceTextView.swift */; };
+		BFE3B87F2B88420200E1FEE6 /* SquaresRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE3B87E2B88420200E1FEE6 /* SquaresRow.swift */; };
+		BFE3B8812B8846C900E1FEE6 /* Squares.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE3B8802B8846C900E1FEE6 /* Squares.swift */; };
+		BFE3B8832B88480C00E1FEE6 /* MagnificationSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE3B8822B88480C00E1FEE6 /* MagnificationSectionView.swift */; };
+		BFE3B8852B884B6E00E1FEE6 /* MagnificationBounceBackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE3B8842B884B6E00E1FEE6 /* MagnificationBounceBackView.swift */; };
+		BFE3B8872B88510D00E1FEE6 /* MagnificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE3B8862B88510D00E1FEE6 /* MagnificationView.swift */; };
+		BFE3B8892B88540300E1FEE6 /* MagnificationStoreStateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE3B8882B88540300E1FEE6 /* MagnificationStoreStateView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		BFE3B8652B883F2400E1FEE6 /* GesturesExploration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GesturesExploration.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFE3B8682B883F2400E1FEE6 /* GesturesExplorationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GesturesExplorationApp.swift; sourceTree = "<group>"; };
-		BFE3B86A2B883F2400E1FEE6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		BFE3B86A2B883F2400E1FEE6 /* GesturesDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GesturesDemo.swift; sourceTree = "<group>"; };
 		BFE3B86C2B883F2500E1FEE6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BFE3B86E2B883F2500E1FEE6 /* GesturesExploration.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = GesturesExploration.entitlements; sourceTree = "<group>"; };
 		BFE3B8702B883F2500E1FEE6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BFE3B87C2B88410C00E1FEE6 /* NiceTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NiceTextView.swift; sourceTree = "<group>"; };
+		BFE3B87E2B88420200E1FEE6 /* SquaresRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquaresRow.swift; sourceTree = "<group>"; };
+		BFE3B8802B8846C900E1FEE6 /* Squares.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Squares.swift; sourceTree = "<group>"; };
+		BFE3B8822B88480C00E1FEE6 /* MagnificationSectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationSectionView.swift; sourceTree = "<group>"; };
+		BFE3B8842B884B6E00E1FEE6 /* MagnificationBounceBackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationBounceBackView.swift; sourceTree = "<group>"; };
+		BFE3B8862B88510D00E1FEE6 /* MagnificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationView.swift; sourceTree = "<group>"; };
+		BFE3B8882B88540300E1FEE6 /* MagnificationStoreStateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationStoreStateView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,8 +66,13 @@
 		BFE3B8672B883F2400E1FEE6 /* GesturesExploration */ = {
 			isa = PBXGroup;
 			children = (
+				BFE3B87B2B88409100E1FEE6 /* Supporting Views */,
+				BFE3B87A2B88408400E1FEE6 /* General Gestures Section */,
+				BFE3B8792B88407200E1FEE6 /* Rotation Section */,
+				BFE3B8782B88406500E1FEE6 /* Drag Section */,
+				BFE3B8772B88405500E1FEE6 /* Magnification Section */,
 				BFE3B8682B883F2400E1FEE6 /* GesturesExplorationApp.swift */,
-				BFE3B86A2B883F2400E1FEE6 /* ContentView.swift */,
+				BFE3B86A2B883F2400E1FEE6 /* GesturesDemo.swift */,
 				BFE3B86C2B883F2500E1FEE6 /* Assets.xcassets */,
 				BFE3B86E2B883F2500E1FEE6 /* GesturesExploration.entitlements */,
 				BFE3B86F2B883F2500E1FEE6 /* Preview Content */,
@@ -67,6 +86,48 @@
 				BFE3B8702B883F2500E1FEE6 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		BFE3B8772B88405500E1FEE6 /* Magnification Section */ = {
+			isa = PBXGroup;
+			children = (
+				BFE3B8822B88480C00E1FEE6 /* MagnificationSectionView.swift */,
+				BFE3B8842B884B6E00E1FEE6 /* MagnificationBounceBackView.swift */,
+				BFE3B8862B88510D00E1FEE6 /* MagnificationView.swift */,
+				BFE3B8882B88540300E1FEE6 /* MagnificationStoreStateView.swift */,
+			);
+			path = "Magnification Section";
+			sourceTree = "<group>";
+		};
+		BFE3B8782B88406500E1FEE6 /* Drag Section */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Drag Section";
+			sourceTree = "<group>";
+		};
+		BFE3B8792B88407200E1FEE6 /* Rotation Section */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Rotation Section";
+			sourceTree = "<group>";
+		};
+		BFE3B87A2B88408400E1FEE6 /* General Gestures Section */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "General Gestures Section";
+			sourceTree = "<group>";
+		};
+		BFE3B87B2B88409100E1FEE6 /* Supporting Views */ = {
+			isa = PBXGroup;
+			children = (
+				BFE3B87C2B88410C00E1FEE6 /* NiceTextView.swift */,
+				BFE3B87E2B88420200E1FEE6 /* SquaresRow.swift */,
+				BFE3B8802B8846C900E1FEE6 /* Squares.swift */,
+			);
+			path = "Supporting Views";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -139,8 +200,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BFE3B86B2B883F2400E1FEE6 /* ContentView.swift in Sources */,
+				BFE3B87D2B88410C00E1FEE6 /* NiceTextView.swift in Sources */,
+				BFE3B8852B884B6E00E1FEE6 /* MagnificationBounceBackView.swift in Sources */,
+				BFE3B86B2B883F2400E1FEE6 /* GesturesDemo.swift in Sources */,
+				BFE3B8812B8846C900E1FEE6 /* Squares.swift in Sources */,
 				BFE3B8692B883F2400E1FEE6 /* GesturesExplorationApp.swift in Sources */,
+				BFE3B8832B88480C00E1FEE6 /* MagnificationSectionView.swift in Sources */,
+				BFE3B8892B88540300E1FEE6 /* MagnificationStoreStateView.swift in Sources */,
+				BFE3B8872B88510D00E1FEE6 /* MagnificationView.swift in Sources */,
+				BFE3B87F2B88420200E1FEE6 /* SquaresRow.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
