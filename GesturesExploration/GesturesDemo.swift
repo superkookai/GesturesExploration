@@ -15,8 +15,9 @@ struct GesturesDemo: View {
                 
                 DragSectionView()
                 
-                Text("Rotation")
-                Text("General")
+                RotationSectionView()
+                
+                GeneralGestureSectionView()
             }
             .navigationTitle("Gestures")
         }
