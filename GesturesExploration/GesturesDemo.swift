@@ -13,7 +13,8 @@ struct GesturesDemo: View {
             Form {
                 MagnificationSectionView()
                 
-                Text("Drag")
+                DragSectionView()
+                
                 Text("Rotation")
                 Text("General")
             }
