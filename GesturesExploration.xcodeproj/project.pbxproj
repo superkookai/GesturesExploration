@@ -16,6 +16,7 @@
 		BF8345CA2B89A6860001333A /* RotationGestureBounceBack.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF8345C92B89A6860001333A /* RotationGestureBounceBack.swift */; };
 		BF8345CC2B89A8A70001333A /* RotationGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF8345CB2B89A8A70001333A /* RotationGestureView.swift */; };
 		BF8345CE2B89AB0F0001333A /* RotationGestureStoreState.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF8345CD2B89AB0F0001333A /* RotationGestureStoreState.swift */; };
+		BF8345D02B89B5DB0001333A /* AllGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF8345CF2B89B5DB0001333A /* AllGestureView.swift */; };
 		BFE3B8692B883F2400E1FEE6 /* GesturesExplorationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE3B8682B883F2400E1FEE6 /* GesturesExplorationApp.swift */; };
 		BFE3B86B2B883F2400E1FEE6 /* GesturesDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE3B86A2B883F2400E1FEE6 /* GesturesDemo.swift */; };
 		BFE3B86D2B883F2500E1FEE6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFE3B86C2B883F2500E1FEE6 /* Assets.xcassets */; };
@@ -39,6 +40,7 @@
 		BF8345C92B89A6860001333A /* RotationGestureBounceBack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBounceBack.swift; sourceTree = "<group>"; };
 		BF8345CB2B89A8A70001333A /* RotationGestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureView.swift; sourceTree = "<group>"; };
 		BF8345CD2B89AB0F0001333A /* RotationGestureStoreState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureStoreState.swift; sourceTree = "<group>"; };
+		BF8345CF2B89B5DB0001333A /* AllGestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllGestureView.swift; sourceTree = "<group>"; };
 		BFE3B8652B883F2400E1FEE6 /* GesturesExploration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GesturesExploration.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFE3B8682B883F2400E1FEE6 /* GesturesExplorationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GesturesExplorationApp.swift; sourceTree = "<group>"; };
 		BFE3B86A2B883F2400E1FEE6 /* GesturesDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GesturesDemo.swift; sourceTree = "<group>"; };
@@ -143,6 +145,7 @@
 			isa = PBXGroup;
 			children = (
 				BF8345C72B89A5470001333A /* GeneralGestureSectionView.swift */,
+				BF8345CF2B89B5DB0001333A /* AllGestureView.swift */,
 			);
 			path = "General Gestures Section";
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 				BFE3B87D2B88410C00E1FEE6 /* NiceTextView.swift in Sources */,
 				BFE3B8852B884B6E00E1FEE6 /* MagnificationBounceBackView.swift in Sources */,
 				BF8345C82B89A5470001333A /* GeneralGestureSectionView.swift in Sources */,
+				BF8345D02B89B5DB0001333A /* AllGestureView.swift in Sources */,
 				BF8345CE2B89AB0F0001333A /* RotationGestureStoreState.swift in Sources */,
 				BF8345BE2B899A300001333A /* DragSectionView.swift in Sources */,
 				BFE3B86B2B883F2400E1FEE6 /* GesturesDemo.swift in Sources */,

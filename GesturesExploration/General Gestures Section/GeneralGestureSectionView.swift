@@ -12,7 +12,7 @@ struct GeneralGestureSectionView: View {
         Section {
             //# is raw string
             NavigationLink(#"General Gesture"#) {
-                
+                AllGestureView()
             }
 
         } header: {
